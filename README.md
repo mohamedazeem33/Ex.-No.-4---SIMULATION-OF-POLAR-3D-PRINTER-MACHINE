@@ -32,9 +32,10 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+![EMP4](https://github.com/Jayamani25/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/85949888/9862c6a9-e590-4e6e-a6cf-0f8f41881c27)
 
-### Name:
-### Register Number:
+### Name: MOHAMED AZEEM N
+### Register Number: 212222110026
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
